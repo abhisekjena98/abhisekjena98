@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Abhisek Jena
-- 👀 I’m interested in Java , Microservices , SQL
-- 🌱 I’m currently learning Stream API , Microservices
-- 💞️ I’m looking to collaborate on ...
+- I am a Software Developer at Mercedes Benz Research and Development India
 - 📫 How to reach me  mail - abhisek.jena98@gmail.com , linkedin - https://www.linkedin.com/in/abhisek-jena-b5478048/
 
 <!---
